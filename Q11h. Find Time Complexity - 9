@@ -1,0 +1,21 @@
+What is the time complexity of the following code snippet
+
+for(int i = 1 ; i <= n ; i++){
+
+for(int j = 1 ; j <= 3^i ; j++){
+
+print(i + j);
+
+}
+
+}
+
+Choose the correct answer from below:
+A) O(n^2)
+B) O(nlogn)
+C) O(2^n)
+D) O(3^n)
+
+Ans:D) O(3^n)
+Explaination : The print statement executes for (3^1 + 3^2 + 3^3 + .. + 3^n) times which is (3^n - 1)/2
+So, time complexity is O(3^n).

@@ -1,0 +1,26 @@
+What is the time complexity of the following code snippet
+
+int func(int n){
+
+int s = 0;
+
+for(int i = 1 ; i <= 100 ; i++){
+
+s = s + i;
+
+}
+
+return s;
+
+}
+
+Choose the correct answer from below:
+A) O(n)
+B) O(n^2)
+C) O(s)
+D) O(1)
+
+
+Ans: D) O(1)
+Explaination : The answer is O(1). 
+The loop runs for 100 times.

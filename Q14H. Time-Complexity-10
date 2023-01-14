@@ -1,0 +1,10 @@
+If for an algorithm time complexity is given by O(n) then complexityof it is:
+
+Choose the correct answer from below:
+A) constant
+B) linear
+C) exponential
+D) none of the mentioned
+
+Ans:B) linear
+Explaination: Explanation: The growth rate of that function will be linear.

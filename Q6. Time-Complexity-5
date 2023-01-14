@@ -1,0 +1,19 @@
+What is the time complexity of following code:
+ 
+int a = 0, i = N; 
+while (i > 0) { 
+    a += i; 
+    i /= 2; 
+}
+
+
+Choose the correct answer from below:
+A) O(N)
+B) O(Sqrt(N))
+C) O(N / 2)
+D) O(log N)
+
+
+Ans:D) O(log N)
+Explaination:We have to find the smallest x such that N / 2^x N
+x = log(N)

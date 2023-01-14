@@ -1,0 +1,10 @@
+If for an algorithm time complexity is given by O((3/2)^n) then complexity will:
+
+Choose the correct answer from below:
+A) constant
+B) quardratic
+C) exponential
+D) none of the mentioned
+
+Ans:C) exponential
+Explaination: Explanation: The growth rate of that function will be exponential therefore complexity will be exponential.

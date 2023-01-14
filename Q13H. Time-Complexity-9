@@ -1,0 +1,10 @@
+If for an algorithm time complexity is given by O(log2n) then complexity will:
+
+Choose the correct answer from below:
+A) constant
+B) polynomial
+C) exponential
+D) none of the mentioned
+
+Ans:D) none of the mentioned
+Explaination: Explanation: The growth rate of that function will be logarithmic therefore complexity will be logarithmic.

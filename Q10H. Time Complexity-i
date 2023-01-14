@@ -1,0 +1,17 @@
+What is the complexity of the following code snippet ?
+
+int ans=0;
+for(int i=0;i<n ; i++){
+ans += i*i;
+}
+return ans;
+
+Choose the correct answer from below:
+A) O(nlogn)
+B) O(n)
+C) O(n^2)
+D) O(1)
+E) None of the above
+
+Ans:B) O(n)
+Explaination:The loop runs for n iterations. So, the time complexity of the program is O(n).

@@ -1,0 +1,26 @@
+What is the time complexity of the following code snippet
+
+int func(int n){
+
+int s = 0;
+
+for(int i = 0 ; i < n ; i = i * 2){
+
+s = s + i;
+
+}
+
+return s;
+
+}
+
+
+Choose the correct answer from below:
+A) O(n)
+B) O(n^(1/2))
+C) O(logn)
+D) O(∞)
+
+Ans:D) O(∞)
+Explaination: The answer is O(∞).
+The loop is an infinite loop as the value of i initialized with 0 doesn't change on multiplication by 2

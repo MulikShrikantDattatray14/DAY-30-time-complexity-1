@@ -1,0 +1,10 @@
+If for an algorithm time complexity is given by O(1) then complexityof it is:
+
+Choose the correct answer from below:
+A) constant
+B) polynomial
+C) exponential
+D) none of the mentioned
+
+Ans:A) constant
+Explaination:The growth rate of that function will be constant.

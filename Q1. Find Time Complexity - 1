@@ -1,0 +1,17 @@
+What is the time complexity of the following code snippet
+
+for(int i = 1 ; i <= n ; i+=2){
+
+print(i);
+
+}
+
+
+Choose the correct answer from below:
+A) O(n^3)
+B) O(n^2)
+C) O(n)
+D) O(logn)
+
+Ans: C) O(n)
+explaination :O(n) is the answer as the loop runs for n/2 times. 
